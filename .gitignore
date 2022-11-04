@@ -39,3 +39,6 @@ prisma/_sqlite/migrations
 
 # Editors
 .idea
+
+# Env
+.env
